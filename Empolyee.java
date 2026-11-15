@@ -77,7 +77,7 @@ package Questions;
     this.employeeId = empolyeeId;
    }
 
-   public void getName(String name){
+   public void setName(String name){
     this.name = name;
    }
 
@@ -85,7 +85,7 @@ package Questions;
     this.salary = salary;
    }
 
-   public void getDepartment(String department){
+   public void setDepartment(String department){
     this.department = department;
    }
      
